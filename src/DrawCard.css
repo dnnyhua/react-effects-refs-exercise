@@ -1,0 +1,14 @@
+.DrawCard {
+    text-align: center;
+    margin-top: 80px;
+}
+
+
+.DrawCard-Btn {
+    margin: 10px;
+    font-size: large;
+}
+
+.DrawCard-cardArea {
+    margin-top: 80px;
+}
